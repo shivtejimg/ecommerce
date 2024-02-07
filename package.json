@@ -1,0 +1,23 @@
+{
+  "name": "tailwind2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetamimg/tailwind2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preetamimg/tailwind2/issues"
+  },
+  "homepage": "https://github.com/preetamimg/tailwind2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
